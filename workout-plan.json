@@ -1,0 +1,135 @@
+{
+  "name": "Leg Strengthening Program for MCL and Meniscus Recovery",
+  "description": "This workout plan is designed to strengthen the legs while being mindful of a healing MCL and a small meniscus tear. The focus is on controlled movements, stability, and gradual progression to prevent further injury.",
+  "workouts": [
+    {
+      "day": 1,
+      "workout": {
+        "name": "Day 1: Stability and Strength",
+        "movements": [
+          {
+            "type": "warmup",
+            "name": "Leg Swings",
+            "instructions": "Stand on one leg and swing the other leg forward and backward. Keep the movement controlled.",
+            "reps": 10,
+            "sets": 2
+          },
+          {
+            "type": "workout",
+            "name": "Bodyweight Squats",
+            "instructions": "Perform squats with your body weight, focusing on form and control. Keep your knees aligned with your toes.",
+            "reps": 12,
+            "sets": 3
+          },
+          {
+            "type": "workout",
+            "name": "Step-Ups",
+            "instructions": "Use a step or platform. Step up with one leg, then bring the other leg up. Step down and repeat.",
+            "reps": 10,
+            "sets": 3
+          },
+          {
+            "type": "workout",
+            "name": "Calf Raises",
+            "instructions": "Stand with feet shoulder-width apart. Raise your heels off the ground, then lower them back down.",
+            "reps": 15,
+            "sets": 3
+          },
+          {
+            "type": "cooldown",
+            "name": "Hamstring Stretch",
+            "instructions": "Sit on the ground with one leg extended. Reach for your toes and hold the stretch.",
+            "reps": 1,
+            "sets": 2
+          }
+        ]
+      }
+    },
+    {
+      "day": 2,
+      "workout": {
+        "name": "Day 2: Balance and Flexibility",
+        "movements": [
+          {
+            "type": "warmup",
+            "name": "Ankle Circles",
+            "instructions": "Rotate your ankles in circles to warm up the joints.",
+            "reps": 10,
+            "sets": 2
+          },
+          {
+            "type": "workout",
+            "name": "Single-Leg Deadlifts",
+            "instructions": "Stand on one leg, bend at the hip, and extend the other leg behind you. Return to standing.",
+            "reps": 10,
+            "sets": 3
+          },
+          {
+            "type": "workout",
+            "name": "Wall Sits",
+            "instructions": "Lean against a wall and slide down into a sitting position. Hold the position.",
+            "reps": 1,
+            "sets": 3
+          },
+          {
+            "type": "workout",
+            "name": "Lateral Leg Raises",
+            "instructions": "Lie on your side and lift the top leg upwards. Keep the movement controlled.",
+            "reps": 12,
+            "sets": 3
+          },
+          {
+            "type": "cooldown",
+            "name": "Quad Stretch",
+            "instructions": "Stand on one leg, pull the other foot towards your buttocks, and hold the stretch.",
+            "reps": 1,
+            "sets": 2
+          }
+        ]
+      }
+    },
+    {
+      "day": 3,
+      "workout": {
+        "name": "Day 3: Core and Stability",
+        "movements": [
+          {
+            "type": "warmup",
+            "name": "Marching in Place",
+            "instructions": "Lift your knees high and march in place to warm up.",
+            "reps": 20,
+            "sets": 2
+          },
+          {
+            "type": "workout",
+            "name": "Plank",
+            "instructions": "Hold a plank position, keeping your body straight and core engaged.",
+            "reps": 1,
+            "sets": 3
+          },
+          {
+            "type": "workout",
+            "name": "Glute Bridges",
+            "instructions": "Lie on your back with knees bent. Lift your hips towards the ceiling and squeeze your glutes.",
+            "reps": 15,
+            "sets": 3
+          },
+          {
+            "type": "workout",
+            "name": "Seated Leg Extensions",
+            "instructions": "Sit on a chair and extend one leg out straight, then lower it back down.",
+            "reps": 12,
+            "sets": 3
+          },
+          {
+            "type": "cooldown",
+            "name": "IT Band Stretch",
+            "instructions": "Cross one leg over the other and lean to the side to stretch the IT band.",
+            "reps": 1,
+            "sets": 2
+          }
+        ]
+      }
+    }
+  ]
+}
